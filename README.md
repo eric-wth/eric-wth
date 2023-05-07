@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [E-commerce app backend](https://github.com/eric-wth/ecommerce-app)
+- 🔭 I’m currently working on [E-commerce app backend]([https://github.com/eric-wth/ecommerce-app](https://github.com/eric-wth/ecommerce-microservice-app))
 
-- 🌱 I’m currently learning **Ruby on Rails and Rust**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 👨‍💻 All of my projects are available at [https://eric-dev.netlify.app/](https://eric-dev.netlify.app/)
 
